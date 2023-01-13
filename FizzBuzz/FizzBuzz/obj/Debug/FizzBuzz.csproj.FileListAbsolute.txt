@@ -1,0 +1,8 @@
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.AssemblyReference.cache
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.SuggestedBindingRedirects.cache
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csproj.CoreCompileInputs.cache
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+C:\Data\Work\valarion\repos\dotNETAssessmentTest\FizzBuzz\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
